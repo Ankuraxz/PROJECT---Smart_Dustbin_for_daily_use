@@ -1,0 +1,13 @@
+Basic Components Required for project:
+1. Arduio MEGA 2560 rev3...............go through data sheet
+2. HC-SR04 Utrasonic sensor............go through data sheet
+3. 4X IR sensors or proximity sensor...................go through data sheet
+5. SIM800L GSM/GPRS module.............go through datasheet
+
+6. LS20030 GPS module for Arduino............go through datasheet
+7. Few resistors, LEDs, wires etc.
+8.  SG90 Servo motor............go through datasheet
+9. 16x2 LCD............go through datasheet
+
+
+(!!!!!!! If you guys use different component then mentioned please see their part number and respective datasheet!!!!!)
